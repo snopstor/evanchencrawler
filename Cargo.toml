@@ -1,0 +1,7 @@
+[package]
+name = "ec_scraper"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+curl = "0.4.46"
